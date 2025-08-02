@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://YOUR-USERNAME.github.io',
+  url: 'https://Smidigstorm.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/my-docusaurus-site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'YOUR-USERNAME', // Usually your GitHub org/user name.
+  organizationName: 'Smidigstorm', // Usually your GitHub org/user name.
   projectName: 'my-docusaurus-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
