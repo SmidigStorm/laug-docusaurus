@@ -60,7 +60,7 @@ const config: Config = {
     navbar: {
       title: 'Laug',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Laug Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -68,13 +68,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Reference System',
+          label: 'Referansesystem',
         },
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Smidigakademiet. All rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Smidigakademiet. Alle rettigheter reservert.`,
     },
     prism: {
       theme: prismThemes.github,

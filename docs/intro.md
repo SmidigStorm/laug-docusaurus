@@ -1,41 +1,41 @@
 ---
 sidebar_position: 1
-sidebar_label: Introduction
-title: Welcome to Laug
+sidebar_label: Introduksjon
+title: Velkommen til Laug
 ---
 
-# Smidigakademiet Organization Design
-## Reference System
+# Smidigakademiet Organisasjonsdesign
+## Referansesystem
 
-Welcome to **Laug** - a comprehensive reference system for organizational design and transformation.
+Velkommen til **Laug** - et omfattende referansesystem for organisasjonsdesign og transformasjon.
 
-## What is Laug?
+## Hva er Laug?
 
-Laug is a tool designed to help organizations:
-- **Understand** their current organizational structure and capabilities
-- **Envision** their desired future state
-- **Identify** the gaps between where they are and where they want to be
-- **Navigate** the transformation journey with proven patterns and practices
+Laug er et verktøy designet for å hjelpe organisasjoner med å:
+- **Forstå** deres nåværende organisasjonsstruktur og kapabiliteter
+- **Se for seg** deres ønskede fremtidige tilstand
+- **Identifisere** gapene mellom hvor de er og hvor de ønsker å være
+- **Navigere** transformasjonsreisen med bevist gode mønstre og praksiser
 
-## The Lens Approach
+## Linse-tilnærmingen
 
-Organizations are complex systems that cannot be understood from a single perspective. Laug provides multiple **lenses** through which you can examine your organization, each revealing different aspects and opportunities for improvement.
+Organisasjoner er komplekse systemer som ikke kan forstås fra ett enkelt perspektiv. Laug tilbyr flere **linser** som du kan undersøke organisasjonen din gjennom, hvor hver linse avdekker ulike aspekter og forbedringsmuligheter.
 
-Each lens offers:
-- **Theory** - Foundational concepts and principles
-- **Tools** - Practical models and frameworks for analysis
-- **Patterns & Anti-patterns** - Best practices to adopt and pitfalls to avoid
+Hver linse tilbyr:
+- **Teori** - Grunnleggende konsepter og prinsipper
+- **Verktøy** - Praktiske modeller og rammeverk for analyse
+- **Mønstre og antimønstre** - Beste praksiser å adoptere og fallgruver å unngå
 
-## How to Use This Reference System
+## Hvordan bruke dette referansesystemet
 
-1. **Start with Understanding** - Begin by exploring the concept of organizational lenses
-2. **Select Your Focus** - Choose the lens most relevant to your current challenges
-3. **Apply the Framework** - Use the theory, tools, and patterns to analyze your organization
-4. **Identify Gaps** - Compare your current state with your vision
-5. **Plan Your Journey** - Create actionable steps for transformation
+1. **Start med forståelse** - Begynn med å utforske konseptet med organisasjonslinser
+2. **Velg ditt fokus** - Velg linsen som er mest relevant for dine nåværende utfordringer
+3. **Anvend rammeverket** - Bruk teorien, verktøyene og mønstrene for å analysere din organisasjon
+4. **Identifiser gap** - Sammenlign din nåværende tilstand med din visjon
+5. **Planlegg din reise** - Lag konkrete steg for transformasjon
 
-## Getting Started
+## Kom i gang
 
-→ Learn more about [the Reference System](/docs/about-reference-system)
+→ Lær mer om [referansesystemet](/docs/about-reference-system)
 
-→ Explore your first lens: [Team and Product Group Structure](/docs/lenses/team-product-structure)
+→ Utforsk din første linse: [Team- og produktgruppestruktur](/docs/lenses/team-product-structure)

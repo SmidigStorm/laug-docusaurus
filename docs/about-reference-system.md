@@ -1,76 +1,76 @@
 ---
 sidebar_position: 2
-sidebar_label: About the Reference System
-title: About the Reference System
+sidebar_label: Om referansesystemet
+title: Om referansesystemet
 ---
 
-# About the Reference System
+# Om referansesystemet
 
-## Purpose and Philosophy
+## Formål og filosofi
 
-The Smidigakademiet Organization Design Reference System is built on the belief that successful organizational transformation requires a holistic understanding of multiple interconnected aspects of an organization.
+Smidigakademiets referansesystem for organisasjonsdesign bygger på overbevisningen om at vellykket organisasjonstransformasjon krever en helhetlig forståelse av flere sammenkoblede aspekter ved en organisasjon.
 
-## Core Principles
+## Kjerneprinsipper
 
-### 1. Multi-Perspective Analysis
-No single viewpoint can capture the full complexity of an organization. By examining your organization through different lenses, you gain a more complete understanding of both challenges and opportunities.
+### 1. Flerperspektivanalyse
+Ingen enkelt synsvinkel kan fange hele kompleksiteten i en organisasjon. Ved å undersøke organisasjonen din gjennom ulike linser, får du en mer fullstendig forståelse av både utfordringer og muligheter.
 
-### 2. Theory-Informed Practice
-Each lens combines academic research with practical experience, ensuring that recommendations are both theoretically sound and practically applicable.
+### 2. Teoriinformert praksis
+Hver linse kombinerer akademisk forskning med praktisk erfaring, og sikrer at anbefalingene er både teoretisk solide og praktisk anvendelige.
 
-### 3. Pattern Recognition
-By identifying common patterns and anti-patterns across organizations, we can learn from collective experience and avoid common pitfalls.
+### 3. Mønstergjenkjenning
+Ved å identifisere vanlige mønstre og antimønstre på tvers av organisasjoner, kan vi lære av kollektiv erfaring og unngå vanlige fallgruver.
 
-## How the System Works
+## Hvordan systemet fungerer
 
-### The Three Pillars
+### De tre pilarene
 
-Each lens in the reference system is structured around three key pillars:
+Hver linse i referansesystemet er strukturert rundt tre nøkkelpilarer:
 
-#### Theory
-- Foundational concepts from organizational science
-- Research-based insights
-- Conceptual frameworks for understanding
+#### Teori
+- Grunnleggende konsepter fra organisasjonsvitenskap
+- Forskningsbaserte innsikter
+- Konseptuelle rammeverk for forståelse
 
-#### Tools
-- Practical models for visualization and analysis
-- Templates and frameworks you can apply
-- Methods for assessment and planning
+#### Verktøy
+- Praktiske modeller for visualisering og analyse
+- Maler og rammeverk du kan anvende
+- Metoder for vurdering og planlegging
 
-#### Patterns & Anti-patterns
-- Proven practices that lead to success
-- Common mistakes to avoid
-- Real-world examples and case insights
+#### Mønstre og antimønstre
+- Bevist gode praksiser som fører til suksess
+- Vanlige feil å unngå
+- Eksempler fra virkeligheten og caseinnsikter
 
-### Using the Lenses
+### Bruk av linsene
 
-1. **Assessment** - Use each lens to evaluate your current state
-2. **Visioning** - Define what excellence looks like through each lens
-3. **Gap Analysis** - Identify the differences between current and desired states
-4. **Planning** - Create targeted interventions based on identified gaps
-5. **Implementation** - Apply patterns and avoid anti-patterns in your transformation
+1. **Vurdering** - Bruk hver linse til å evaluere din nåværende tilstand
+2. **Visjonsarbeid** - Definer hva fremragende ser ut gjennom hver linse
+3. **Gap-analyse** - Identifiser forskjellene mellom nåværende og ønsket tilstand
+4. **Planlegging** - Lag målrettede intervensjoner basert på identifiserte gap
+5. **Implementering** - Anvend mønstre og unngå antimønstre i din transformasjon
 
-## Who Should Use This System?
+## Hvem bør bruke dette systemet?
 
-This reference system is designed for:
-- **Organizational Leaders** planning strategic transformations
-- **Change Agents** driving organizational improvement
-- **Consultants** helping organizations evolve
-- **Team Leaders** optimizing their areas of responsibility
-- **HR Professionals** designing organizational structures
-- **Anyone** interested in understanding and improving organizations
+Dette referansesystemet er designet for:
+- **Organisasjonsledere** som planlegger strategiske transformasjoner
+- **Endringsagenter** som driver organisasjonsforbedring
+- **Konsulenter** som hjelper organisasjoner med å utvikle seg
+- **Teamledere** som optimaliserer sine ansvarsområder
+- **HR-profesjonelle** som designer organisasjonsstrukturer
+- **Alle** som er interessert i å forstå og forbedre organisasjoner
 
-## Expected Outcomes
+## Forventede resultater
 
-By applying this reference system, organizations can expect to:
-- Gain clarity on their current organizational design
-- Develop a shared vision for the future
-- Identify specific, actionable improvement areas
-- Avoid common organizational design mistakes
-- Create more effective, efficient, and adaptable structures
+Ved å bruke dette referansesystemet kan organisasjoner forvente å:
+- Få klarhet i deres nåværende organisasjonsdesign
+- Utvikle en felles visjon for fremtiden
+- Identifisere spesifikke, handlingsrettede forbedringsområder
+- Unngå vanlige feil i organisasjonsdesign
+- Skape mer effektive og tilpasningsdyktige strukturer
 
-## Next Steps
+## Neste steg
 
-Ready to begin? Start exploring the available lenses:
+Klar til å begynne? Start med å utforske de tilgjengelige linsene:
 
-→ [Team and Product Group Structure](/docs/lenses/team-product-structure) - Understanding team topology and organization
+→ [Team- og produktgruppestruktur](/docs/lenses/team-product-structure) - Forstå teamtopologi og organisering
