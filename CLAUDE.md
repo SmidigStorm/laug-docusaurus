@@ -1,7 +1,7 @@
-# Smidigakademiet Organization Design - Reference System
+# Laug Organisasjons Design - Referanse System (LoD - RS)
 
 ## Project Overview
-This Docusaurus site serves as a knowledge base for the Smidigakademiet Organization Design Reference System. It's a tool to help organizations understand their current state, define their vision, and identify gaps between them.
+This Docusaurus site serves as a knowledge base for Laug Organisasjons Design - Referanse System (LoD - RS), developed by Smidigakademiet. It's a tool to help organizations understand their current state, define their vision, and identify gaps between them.
 
 ## Core Concept
 The system provides different "lenses" through which organizations can be viewed and analyzed. Each lens offers:
@@ -36,8 +36,8 @@ The system provides different "lenses" through which organizations can be viewed
 - **Git Config**: User: Smidigstorm, Email: arnehenrik.storm@gmail.com
 
 ## Site Configuration
-- **Title**: Laug
-- **Tagline**: Smidigakademiet Organization Design - Reference System
+- **Title**: Laug Organisasjons Design - Referanse System
+- **Tagline**: LoD - RS
 - **URL**: https://laug.smidigakademiet.no
 - **Base URL**: /
 - **Custom Domain**: laug.smidigakademiet.no (DNS CNAME → smidigstorm.github.io)

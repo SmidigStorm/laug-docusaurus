@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
 sidebar_label: Introduksjon
-title: Velkommen til Laug
+title: Velkommen til LoD - RS
 ---
 
-# Smidigakademiet Organisasjonsdesign
-## Referansesystem
+# Laug Organisasjons Design - Referanse System
+## LoD - RS
 
-Velkommen til **Laug** - et omfattende referansesystem for organisasjonsdesign og transformasjon.
+Velkommen til **Laug Organisasjons Design - Referanse System (LoD - RS)** - et omfattende referansesystem for organisasjonsdesign og transformasjon utviklet av Smidigakademiet.
 
 ## Hva er Laug?
 

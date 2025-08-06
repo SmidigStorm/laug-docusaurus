@@ -8,7 +8,7 @@ title: Om referansesystemet
 
 ## Formål og filosofi
 
-Smidigakademiets referansesystem for organisasjonsdesign bygger på overbevisningen om at vellykket organisasjonstransformasjon krever en helhetlig forståelse av flere sammenkoblede aspekter ved en organisasjon.
+Laug Organisasjons Design - Referanse System (LoD - RS) er utviklet av Smidigakademiet og bygger på overbevisningen om at vellykket organisasjonstransformasjon krever en helhetlig forståelse av flere sammenkoblede aspekter ved en organisasjon.
 
 ## Kjerneprinsipper
 
