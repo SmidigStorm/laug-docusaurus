@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Explore the Reference System →
+            Sjekk ut referansesystemet →
           </Link>
         </div>
       </div>
