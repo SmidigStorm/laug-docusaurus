@@ -1,7 +1,7 @@
 ---
-sidebar_position: 8
-sidebar_label: Produkt og prioritering
-title: Produkt og prioritering
+sidebar_position: 5
+sidebar_label: "Linse 2: Produkter og prioritering"
+title: "Linse 2: Produkter og prioritering"
 ---
 
 # Produkt og prioritering

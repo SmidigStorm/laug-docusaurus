@@ -76,6 +76,8 @@ The system provides different "lenses" through which organizations can be viewed
 - Use clear headings and subheadings for easy navigation
 - Include practical examples and real-world applications
 - Provide actionable insights and tools
+- **Visual elements**: Use emojis (🖊️, 📝, 📋, etc.) in headings where appropriate to make content more visually appealing and scannable
+- **Icons for tools**: When referencing digital tools, include their icons/logos where possible for better visual recognition
 
 ## User Context
 - Owner: Arne Henrik Storm (Smidigstorm)

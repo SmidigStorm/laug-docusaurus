@@ -1,225 +1,173 @@
 ---
-sidebar_position: 1
-sidebar_label: Team- og produktstruktur
-title: Team- og produktgruppestruktur
+sidebar_position: 4
+sidebar_label: "Linse 1: Team- og produktgruppestruktur"
+title: "Linse 1: Team- og produktgruppestruktur"
 ---
 
-# Team- og produktgruppestruktur
+# Linse 1: Team- og produktgruppestruktur
 
 Denne linsen undersøker hvordan team er organisert, hvordan de forholder seg til produkter og tjenester, og hvordan arbeid flyter gjennom organisasjonen.
 
 ## Oversikt
 
-Måten team er strukturert og organisert på har dyp innvirkning på en organisasjons evne til å levere verdi. Denne linsen hjelper deg med å forstå og optimalisere din teamtopologi - organiseringen og samhandlingen mellom team i din organisasjon.
+Måten team er strukturert og organisert på har dyp innvirkning på en organisasjons evne til å levere verdi. Denne linsen hjelper deg med å forstå og optimalisere din teamstruktur ved å:
+
+- Identifisere hvilke typer team du har i organisasjonen
+- Forstå styrker og svakheter ved ulike teamtyper
+- Kartlegge hvordan team samhandler og leverer verdi
+- Avdekke muligheter for forbedring av teamstruktur
+
+En bevisst tilnærming til teamorganisering kan dramatisk forbedre leveransehastighet, kvalitet og medarbeidertilfredshet.
 
 ---
 
 ## Teori
 
-### Grunnleggende konsepter
+<style>
+{`
+.single-specialist-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
 
-#### Teamtopologi
-Teamtopologi refererer til organisasjonsdesignet av team og deres interaksjonsmønstre. Det omfatter:
-- Teamtyper og deres formål
-- Teamgrenser og grensesnitt
-- Kommunikasjons- og samarbeidsmønstre
-- Avhengigheter og overleveringer
+.multi-specialist-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
 
-#### Conways lov
-"Organisasjoner som designer systemer er begrenset til å produsere design som er kopier av kommunikasjonsstrukturene i disse organisasjonene." 
-- Melvin Conway, 1967
+.team-box {
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
 
-Dette grunnleggende prinsippet betyr at din teamstruktur direkte vil påvirke din systemarkitektur.
+.team-box:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--ifm-global-shadow-md);
+  border-color: var(--ifm-color-primary);
+}
 
-#### Kognitiv belastning
-Team har begrenset kognitiv kapasitet. Effektiv teamdesign tar hensyn til:
-- **Iboende kognitiv belastning** - grunnleggende kompleksitet i problemområdet
-- **Ekstra kognitiv belastning** - kompleksitet fra måten oppgaver presenteres på
-- **Relevant kognitiv belastning** - kompleksitet fra læring og forbedring
+.team-box img {
+  margin-bottom: 1rem;
+}
 
-### Typer team
+.team-box h4 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
 
-#### Strømjusterte team
-- Justert til en arbeidsflyt fra et forretningsdomene
-- Ansvarlig for ende-til-ende-levering
-- Har klare, verdifulle resultater å oppnå
+.team-box p {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
 
-#### Plattformteam
-- Leverer underliggende plattformer for strømjusterte team
-- Reduserer kognitiv belastning ved å håndtere infrastrukturkompleksitet
-- Gjør strømjusterte team i stand til å levere raskere
+.team-examples {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  font-style: italic;
+}
 
-#### Muliggjørende team
-- Hjelper strømjusterte team med å overvinne hindringer
-- Gir ekspertise og veiledning
-- Arbeider vanligvis midlertidig med andre team
+`}
+</style>
 
-#### Kompliserte delsystemteam
-- Håndterer deler av systemet som krever spesialisert kunnskap
-- Reduserer kognitiv belastning for strømjusterte team
-- Fokuserer på spesifikke tekniske områder
+### De 7 teamtypene
+
+#### Single Specialist Teams
+
+<div className="single-specialist-grid">
+
+<div className="team-box">
+<img src="/img/Single%20Function%20Team.png" alt="Single Function Team" width="200" />
+<h4>Single Function Team</h4>
+<p>Team organisert rundt en enkelt funksjon eller ferdighet.</p>
+<div className="team-examples">
+UX-design team, Testing team, Database team, Security team
+</div>
+</div>
+
+<div className="team-box">
+<img src="/img/Single%20component%20team.png" alt="Single Component Team" width="200" />
+<h4>Single Component Team</h4>
+<p>Team som eier og vedlikeholder en spesifikk teknisk komponent.</p>
+<div className="team-examples">
+API team, Frontend team, Authentication team, Payment service team
+</div>
+</div>
+
+<div className="team-box">
+<img src="/img/Enabling%20team.png" alt="Enabling Team" width="200" />
+<h4>Enabling Team</h4>
+<p>Team som hjelper andre team bli mer effektive ved å tilby ekspertise.</p>
+<div className="team-examples">
+DevOps team, Architecture team, Developer Experience team
+</div>
+</div>
+
+<div className="team-box">
+<img src="/img/Platform%20team.png" alt="Platform Team" width="200" />
+<h4>Platform Team</h4>
+<p>Team som leverer underliggende plattform og infrastruktur.</p>
+<div className="team-examples">
+Cloud Platform team, CI/CD Pipeline team, Data Platform team
+</div>
+</div>
+
+</div>
+
+<div className="section-header">
+<h3>Multi-specialist Teams</h3>
+<p className="section-description">Team med bred kompetanse på tvers av flere områder</p>
+</div>
+
+<div className="multi-specialist-grid">
+
+<div className="team-box">
+<img src="/img/Product%20Oriented%20team.png" alt="Product Oriented Team" width="200" />
+<h4>Product Oriented Team</h4>
+<p>Team organisert rundt et spesifikt produkt eller tjeneste.</p>
+<div className="team-examples">
+Mobile App team, E-commerce team, Analytics team
+</div>
+</div>
+
+<div className="team-box">
+<img src="/img/Prosess%20oriented%20team.png" alt="Process Oriented Team" width="200" />
+<h4>Process Oriented Team</h4>
+<p>Team organisert rundt en spesifikk forretningsprosess.</p>
+<div className="team-examples">
+Customer Onboarding team, Order Processing team, Billing team
+</div>
+</div>
+
+<div className="team-box">
+<img src="/img/Customer%20segment%20team.png" alt="User Group Oriented Team" width="200" />
+<h4>User Group Oriented Team</h4>
+<p>Team fokusert på behovene til en spesifikk brukergruppe.</p>
+<div className="team-examples">
+Enterprise Customers team, Small Business team, Consumer team
+</div>
+</div>
+
+</div>
 
 ---
 
 ## Verktøy
 
-### Teamtopologikartlegging
-
-Et visuelt verktøy for å forstå din nåværende teamstruktur:
-
-1. **Identifiser alle team** i din organisasjon
-2. **Klassifiser hvert team** ved bruk av de fire grunnleggende typene
-3. **Kartlegg avhengigheter** mellom team
-4. **Identifiser interaksjonsmønstre**:
-   - Samarbeid (jobbe tett sammen)
-   - X-som-en-tjeneste (ett team leverer tjeneste til et annet)
-   - Tilrettelegging (ett team hjelper et annet)
-
-### Verdistrømkartlegging
-
-Visualiser hvordan arbeid flyter gjennom dine team:
-
-1. **Kartlegg verdistrømmen** fra idé til kundeverdi
-2. **Identifiser hvilke team** som er involvert på hvert trinn
-3. **Mål ventetider** mellom team
-4. **Finn flaskehalser** og begrensninger
-
-### Teamkognitiv belastningsvurdering
-
-Evaluer om team er overbelastet:
-
-1. **Domenekompleksitet** - Hvor komplekst er forretningsdomenet?
-2. **Teknisk kompleksitet** - Hvor komplekse er de tekniske løsningene?
-3. **Teamerfaring** - Hvor erfaren er teamet?
-4. **Teamstabilitet** - Hvor stabilt er teammedlemskapet?
-5. **Avhengigheter** - Hvor mange avhengigheter har teamet?
-
-Ranger hver faktor 1-5 og identifiser team med høy kognitiv belastning.
-
-### Team API Canvas
-
-Definer klare grensesnitt mellom team:
-- **Formål**: Hva er teamets oppdrag?
-- **Ansvarsområder**: Hva eier teamet?
-- **Forbrukere**: Hvem bruker teamets tjenester?
-- **Leverte tjenester**: Hva tilbyr teamet?
-- **Kvalitetsmålinger**: Hvordan måles suksess?
-
 ---
 
-## Mønstre og antimønstre
-
-### Mønstre (Beste praksiser)
-
-#### ✅ Strømjusterte team med klare domener
-**Kontekst**: Organisasjoner trenger å levere verdi raskt og uavhengig
-
-**Løsning**: Lag team justert til forretningsverdistrømmer med:
-- Klart eierskap til forretningsresultater
-- Minimale avhengigheter til andre team
-- Myndighet til å ta beslutninger innenfor sitt domene
-- Direkte kontakt med brukere/kunder
-
-**Fordeler**:
-- Raskere levering
-- Høyere kvalitet
-- Bedre kundefokus
-- Økt teammotivasjon
-
-#### ✅ Plattform som produkt
-**Kontekst**: Flere team trenger lignende infrastruktur eller verktøy
-
-**Løsning**: Lag plattformteam som:
-- Behandler plattformen som et produkt med interne kunder
-- Fokuserer på utvikleropplevelse
-- Leverer selvbetjeningskapabiliteter
-- Vedlikeholder klar dokumentasjon og APIer
-
-**Fordeler**:
-- Redusert kognitiv belastning for strømteam
-- Konsistent infrastruktur
-- Raskere onboarding
-- Stordriftsfordeler
-
-#### ✅ Muliggjørende team for kapabilitetsbygging
-**Kontekst**: Team trenger å adoptere nye praksiser eller teknologier
-
-**Løsning**: Dann midlertidige muliggjørende team som:
-- Coacher og veileder andre team
-- Overfører kunnskap og ferdigheter
-- Hjelper med å etablere nye praksiser
-- Gradvis reduserer involvering når team blir selvstendige
-
-**Fordeler**:
-- Raskere kapabilitetsutvikling
-- Konsistente praksiser på tvers av team
-- Redusert ekstern avhengighet
-
-### Antimønstre (Fallgruver å unngå)
-
-#### ❌ Komponentteamspredning
-**Problem**: Å ha for mange team organisert rundt tekniske komponenter eller lag
-
-**Hvorfor det skjer**:
-- Følger systemarkitektur i stedet for verdistrømmer
-- Tekniske spesialister ønsker å jobbe sammen
-- Tradisjonelle IT-organisasjonsstrukturer
-
-**Konsekvenser**:
-- Høy koordineringskostnad
-- Treg levering på grunn av avhengigheter
-- Uklart eierskap til forretningsresultater
-- Økte ventetider og overleveringer
-
-**Alternativ**: Reorganiser til strømjusterte team med fullstack-kapabiliteter
-
-#### ❌ Matriseorganisasjonsforvirring
-**Problem**: Teammedlemmer rapporterer til flere ledere med motstridende prioriteringer
-
-**Konsekvenser**:
-- Uklar ansvarlighet
-- Motstridende prioriteringer
-- Redusert teamsamhold
-- Tregere beslutningstaking
-
-**Alternativ**: Klare, enkle rapporteringslinjer med stiplete linjer der det trengs
-
-#### ❌ Feature Factory-team
-**Problem**: Team fokusert kun på output uten å forstå resultater
-
-**Konsekvenser**:
-- Bygger funksjoner ingen bruker
-- Mangel på eierskap og motivasjon
-- Tapte læringsmuligheter
-- Dårlig produktkvalitet
-
-**Alternativ**: Gi team eierskap til resultater, ikke bare output
-
-#### ❌ Delte teammedlemmer
-**Problem**: Individer delt på tvers av flere team
-
-**Konsekvenser**:
-- Kontekstbyttekostnader
-- Redusert teamsamhold
-- Flaskehalser når person er utilgjengelig
-- Vanskeligheter med planlegging og forpliktelse
-
-**Alternativ**: Dedikerte teammedlemmer med klare hjemmeteam
+## Patterns og Anti-Patterns
 
 ---
 
 ## Vurderingsspørsmål
-
-Bruk disse spørsmålene for å evaluere din nåværende team- og produktstruktur:
-
-1. Kan team levere verdi uavhengig, eller venter de ofte på andre team?
-2. Forstår og eier team forretningsresultater, eller bare tekniske komponenter?
-3. Er den kognitive belastningen på team håndterbar, eller er de overveldet?
-4. Er teamgrenser klare og veldefinerte?
-5. Har team ferdighetene og myndigheten til å levere ende-til-ende?
-6. Hvor mange overleveringer kreves for å levere verdi til kunder?
-7. Leveres plattformkapabiliteter som selvbetjening, eller krever de koordinering?
-8. Har team direkte kontakt med sine brukere/kunder?
 
 ---
 
