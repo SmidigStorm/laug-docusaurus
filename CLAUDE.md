@@ -38,8 +38,8 @@ The system provides different "lenses" through which organizations can be viewed
 ## Site Configuration
 - **Title**: Laug
 - **Tagline**: Smidigakademiet Organization Design - Reference System
-- **URL**: https://SmidigStorm.github.io
-- **Base URL**: /laug-docusaurus/
+- **URL**: https://laug.smidigakademiet.no
+- **Base URL**: /
 - **Custom Domain**: laug.smidigakademiet.no (DNS CNAME → smidigstorm.github.io)
 
 ## Key Files and Locations
@@ -82,3 +82,4 @@ The system provides different "lenses" through which organizations can be viewed
 - Purpose: Knowledge base for organizational design consulting/methodology
 - Target audience: Organizational leaders, change agents, consultants, team leaders, HR professionals
 - Approach: Practical, theory-informed, pattern-based
+- Development approach: Iterative - the site will be developed and refined incrementally over time
